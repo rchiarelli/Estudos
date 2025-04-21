@@ -61,3 +61,5 @@ limpar.addEventListener("click", function() {
   tela.textContent = "0"
   telaN = ""
 })
+
+console.log(screen.availWidth)
